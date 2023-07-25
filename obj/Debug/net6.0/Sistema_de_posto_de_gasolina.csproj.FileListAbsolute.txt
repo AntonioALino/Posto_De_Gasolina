@@ -1,0 +1,15 @@
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\bin\Debug\net6.0\Sistema_de_posto_de_gasolina.exe
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\bin\Debug\net6.0\Sistema_de_posto_de_gasolina.deps.json
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\bin\Debug\net6.0\Sistema_de_posto_de_gasolina.runtimeconfig.json
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\bin\Debug\net6.0\Sistema_de_posto_de_gasolina.dll
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\bin\Debug\net6.0\Sistema_de_posto_de_gasolina.pdb
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.csproj.AssemblyReference.cache
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.AssemblyInfoInputs.cache
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.AssemblyInfo.cs
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.csproj.CoreCompileInputs.cache
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.dll
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\refint\Sistema_de_posto_de_gasolina.dll
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.pdb
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\Sistema_de_posto_de_gasolina.genruntimeconfig.cache
+D:\C#\JogoNúmeros\Sistema_de_posto_de_gasolina\obj\Debug\net6.0\ref\Sistema_de_posto_de_gasolina.dll
